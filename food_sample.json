@@ -1,0 +1,300 @@
+{
+    "days": 5,
+    "snacks_per_day": 2,
+    "breakfast": [
+        {
+            "name": "oatmeal",
+            "ingredients": ["oatmeal", "brown sugar"],
+            "notes": "Brown sugar is for sprinkling."
+        },
+        {
+            "name": "eggs and toast",
+            "ingredients": ["eggs", "toast"],
+            "notes": "Fried, scrambled, you really can't go wrong."
+        },
+        {
+            "name": "french toast",
+            "ingredients": ["french toast", "syrup", "peanut butter"],
+            "notes": ""
+        },
+        {
+            "name": "waffles",
+            "ingredients": ["waffles", "peanut butter"],
+            "notes": ""
+        },
+        {
+            "name": "pancakes",
+            "ingredients": ["pancakes", "eggs"],
+            "notes": "Eggs are a side-dish here."
+        },
+        {
+            "name": "cold cereal",
+            "ingredients": ["cold cereal", "milk"],
+            "notes": "Doesn't get much simpler than this."
+        },
+        {
+            "name": "peanut butter and banana toast",
+            "ingredients": ["toast", "peanut butter", "bananas"],
+            "notes": "Best if toasted in griddler."
+        },
+        {
+            "name": "fruit smoothie",
+            "ingredients": ["banana", "berries", "Greek yogurt", "milk", "(optional) protein powder"],
+            "notes": "Good berries include strawberries, blueberries, and raspberries. This can be frozen and re-blended later."
+        },
+        {
+            "name": "avocado toast with egg",
+            "ingredients": ["avocado", "toast", "egg"],
+            "notes": "Toast bread, then mash avocado on top, then set fried egg on top of both."
+        },
+        {
+            "name": "quiche",
+            "ingredients": ["quiche"],
+            "notes": "For now, buy entire quiche from store. Cooking times vary between 20 and 45 minutes."
+        },
+        {
+            "name": "omelets",
+            "ingredients": ["eggs", "bell peppers or onion", "ham, bacon, or sausage", "cooked spinach or cooked broccoli", "cheese"],
+            "notes": "Mushrooms might work well also if they are small (and cooked.)"
+        },
+        {
+            "name": "scrambled eggs with ham and cheese",
+            "ingredients": ["eggs", "ham", "cheddar or colbyjack cheese"],
+            "notes": ""
+        }
+    ],
+    "snacks": [
+        {
+            "name": "celery and peanut butter",
+            "ingredients": ["celery", "peanut butter"],
+            "notes": "Celery hearts work best."
+        },
+        {
+            "name": "hard boiled eggs",
+            "ingredients": ["eggs"],
+            "notes": "Getting an egg poacher would help."
+        },
+        {
+            "name": "twice baked potatoes",
+            "ingredients": ["twice baked potatoes"],
+            "notes": "Buy from Harmons for now."
+        },
+        {
+            "name": "berries and yogurt",
+            "ingredients": ["blueberries or strawberries or raspberries or banana", "Greek yogurt", "granola or cereal"],
+            "notes": "Crunch up the granola on top. No, banana is not a berry."
+        },
+        {
+            "name": "chips and salsa",
+            "ingredients": ["tortilla chips", "salsa"],
+            "notes": "Buy mild salsa and die."
+        },
+        {
+            "name": "taquitos",
+            "ingredients": ["taquitos", "hot sauce"],
+            "notes": "Buy frozen from store."
+        },
+        {
+            "name": "refried beans with cheese",
+            "ingredients": ["refried beans", "colbyjack cheese", "(optional) chips"],
+            "notes": "The chips are for dipping."
+        },
+        {
+            "name": "pickles",
+            "ingredients": ["pickles"],
+            "notes": "For the love of all that is holy, ensure these are dill."
+        },
+        {
+            "name": "cheese sticks",
+            "ingredients": ["cheese stick(s)"],
+            "notes": "The colbyjack sticks are best."
+        },
+        {
+            "name": "cheese and crackers",
+            "ingredients": ["goat or pepperjack or bree cheese", "Carr's crackers", "quality meat"],
+            "notes": "Goat cheese drizzled in Balsamic vinegar would be good too."
+        },
+        {
+            "name": "cottage cheese",
+            "ingredients": ["cottage cheese"],
+            "notes": ""
+        },
+        {
+            "name": "potstickers",
+            "ingredients": ["potstickers"],
+            "notes": "Purchase these frozen from the store."
+        },
+        {
+            "name": "apple slices and cheese",
+            "ingredients": ["apples", "mozzarella or cheddar or pepperjack or bree cheese"],
+            "notes": "Eat in tandem or sequentially."
+        },
+        {
+            "name": "gourmet bread and olive oil and vinegar",
+            "ingredients": ["artisan bread", "olive oil (extra virgin)", "balsamic vinegar"],
+            "notes": "Anything but the cheapest balsamic should be fine. Good garlic bread can replace artisan bread in a pinch."
+        },
+        {
+            "name": "bowl of cherries",
+            "ingredients": ["cherries"],
+            "notes": "Do not eat bowl."
+        },
+        {
+            "name": "avocado with salt",
+            "ingredients": ["avocado"],
+            "notes": "Cut avocado into slices and salt individually."
+        },
+        {
+            "name": "nuts",
+            "ingredients": ["cashews or almonds or peanuts"],
+            "notes": "Aww nuts!"
+        },
+        {
+            "name": "quesadilla",
+            "ingredients": ["cheese", "(optional) refried beans", "(optional) salsa", "(optional) sliced olives", "(optional) pulled chicken",
+                            "(optional) apple slices"],
+            "notes": "If apples slices and chicken are involved, it'll be more like a full meal."
+        },
+        {
+            "name": "steamed broccoli",
+            "ingredients": ["broccoli", "parmesan cheese"],
+            "notes": "This could also work well with Cauliflower but you might need a different cheese. Consider salting either."
+        },
+        {
+            "name": "faux trail mix",
+            "ingredients": ["craisins", "cashews or almonds or peanuts", "cheese-its", "yogurt-covered raisins", "(optional) pine-nuts"],
+            "notes": "Only use pine nuts if they are on sale. Those things are pricey."
+        }
+    ],
+    "lunch": [
+        {
+            "name": "nachos",
+            "ingredients": ["chips", "salsa", "cheese", "olives", "(optional) chili"],
+            "notes": ""
+        },
+        {
+            "name": "chili and cheese",
+            "ingredients": ["chili", "pepperjack or colbyjack or cheddar cheese"],
+            "notes": ""
+        },
+        {
+            "name": "grilled cheese and tomato soup",
+            "ingredients": ["bread", "cheddar or colbyjack or pepperjack cheese", "tomato soup", "milk"],
+            "notes": "Make sure to use extra cheese in place of butter on outside of sandwich. Gouda can work well but will be challenging to melt."
+        },
+        {
+            "name": "peanut butter and nutella sandwich",
+            "ingredients": ["peanut butter", "bread", "nutella", "(optional) peanuts"],
+            "notes": "Consider eating peanuts on the side to manage hunger better."
+        },
+        {
+            "name": "peanut butter and jelly sandwich",
+            "ingredients": ["peanut butter", "bread", "good cherry or strawberry jelly", "(optional) peanuts"],
+            "notes": "Consider eating peanuts on the side to manage hunger better."
+        },
+        {
+            "name": "turkey bacon avocado sandwich",
+            "ingredients": ["turkey (sliced & high-quality)", "bacon (cooked in advance)", "avocado",
+                            "(optional) provolone or pepperjack or gouda cheese", "(optional) mayo (thin layer)",
+                            "(optional) romain lettuce (small amount)"],
+            "notes": ""
+        },
+        {
+            "name": "ham, bacon, cheddar sandwich",
+            "ingredients": ["ham (sliced & high-quality)", "bacon (cooked in advance)", "cheddar cheese", "(optional) mayo (thin layer)"],
+            "notes": "Use multiple slices of cheese or a very thick single slice."
+        },
+        {
+            "name": "chicken, bacon, ranch sandwich",
+            "ingredients": ["chicken (sliced or pulled & high-quality)", "bacon (cooked in advance)",
+                            "provolone or mozzarella or pepperjack or cheddar or gouda cheese",
+                            "ranch", "(optional) romaine lettuce (small amount)"],
+            "notes": "Use multiple slices of cheese or a very thick single slice."
+        },
+        {
+            "name": "roast beef and pickle sandwich",
+            "ingredients": ["roast beef (sliced & high-quality)", "dill pickles", "cheddar or pepperjack or colbyjack cheese",
+                            "(optional) dijon mustard (small amount)", "mayo"],
+            "notes": "Purchase tiny dill pickles and halve them. The pre-halved variety aren't as tasty. Reduce mayo if dijon is used."
+        },
+        {
+            "name": "hot pockets and veggies",
+            "ingredients": ["hot pockets", "carrots + ranch or cooked spinach + salt or sliced bell peppers"],
+            "notes": "Pizza hot pockets are always a safe bet"
+        },
+        {
+            "name": "frozen pizza and side dish",
+            "ingredients": ["CPK frozen pizza or similar", "carrots + ranch or granny smith apple slices or cooked broccoli + salt"],
+            "notes": ""
+        }
+    ],
+    "dinner": [
+        {
+            "name": "pasta, sausage and mushrooms",
+            "ingredients": ["pre-made pasta or noodles + sauce", "high-quality ground sausage"],
+            "notes": "Attempt to avoid Pesto pasta as it makes for a weird flavor profile."
+        },
+        {
+            "name": "homemade pizza",
+            "ingredients": ["Pillsburry pizza dough in cylinder", "BBQ sauce", "chicken or pepperoni or sausage",
+                            "mozzarella or colbyjack cheese", "(optional) pineapple chunks", "olives"],
+            "notes": "It is best to slice the olives into halves if they aren't already."
+        },
+        {
+            "name": "pasta and beef",
+            "ingredients": ["noodles", "ground beef", "garlic salt", "pasta sauce", "(optional) mushrooms"],
+            "notes": ""
+        },
+        {
+            "name": "soft shell tacos",
+            "ingredients": ["ground beef", "taco seasoning", "red, yellow, or white onion", "(optional) bell pepper (finely chopped)",
+                            "romaine lettuce", "colbyjack or cheddar cheese", "tortillas"],
+            "notes": ""
+        },
+        {
+            "name": "porkchops with roasted apples and onions (involved)",
+            "ingredients": ["white or yellow onion", "gala apples", "6-oz pork chops (1 per person)", "1 can chicken broth"],
+            "notes": "See: http://www.myrecipes.com/recipe/pork-chops-roasted-apples"
+        },
+        {
+            "name": "herb-garlic crusted flank steak with pan-roasted grapes (involved)",
+            "ingredients": ["steak (flank or new youk strip", "red grapes", "two shallots", "white balsamic vinegar",
+                            "crumbled feta cheese (substitution for 'blue' in recipe)"],
+            "notes": "See: http://www.countryliving.com/food-drinks/recipes/a5748/herb-garlic-crusted-flank-steak-with-pan-roasted-grapes-recipe-clx0914/"
+        },
+        {
+            "name": "taco salad",
+            "ingredients": ["romaine lettuce", "ground beef", "doritos chips", "taco seasoning", "yellow or white onion",
+                            "bell pepper (chopped)", "ranch dressing", "olives (halved or sliced)", "colbyjack or pepperjack or cheddar cheese",
+                            "garlic salt (for the beef)"],
+            "notes": ""
+        },
+        {
+            "name": "burgers",
+            "ingredients": ["cotsco beef in patty form", "garlic salt", "buns (toasted!)", "mayo", "ketchup", "(optional) dijon mustard",
+                            "colbyjack or pepperjack or cheddar or gouda cheese (sliced)", "pickles (not pre-sliced)", "romaine lettuce"],
+            "notes": "Requires a skillet to melt cheese properly."
+        },
+        {
+            "name": "BBQ Sandwiches",
+            "ingredients": ["Shredded pork/beef/chicken already with BBQ sauce such as Jack Daniel's chicken",
+                            "(optional) shredded meat and add BBQ sauce separately", "buns (sliced bread unacceptable)"],
+            "notes": ""
+        },
+        {
+            "name": "Chicken, Bacon, and Spaghetti",
+            "ingredients": ["Spaghetti", "1 lb. Chicken breast", "bacon (pre-cooked)", "3 cups spinach", "heavy cream", "parmesan cheese"],
+            "notes": "See: http://www.delish.com/cooking/recipe-ideas/recipes/a45774/chicken-bacon-and-spinach-spaghetti-recipe/"
+        },
+        {
+            "name": "Crockpot Beef Stew",
+            "ingredients": ["chuck roast", "potatoes", "carrots", "yellow onion", "sauces/stew base (???)", "celery"],
+            "notes": "Correct this data source with the appropriate bases: TODO"
+        },
+        {
+            "name": "Bratwurst or Hotdogs",
+            "ingredients": ["Bratwurst or hotdogs", "pepperjack cheese (for melting)", "ketchup", "mayo", "buns"],
+            "notes": ""
+        }
+    ] 
+}
